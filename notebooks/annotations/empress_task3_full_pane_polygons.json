@@ -1,0 +1,975 @@
+{
+  "schema": "gbsv-mc2-fs26-empress-full-pane-polygons-v1",
+  "coordinate_space": "window_crop_pixels_xy",
+  "window_roi_xyxy": {
+    "x1": 300,
+    "y1": 210,
+    "x2": 680,
+    "y2": 405
+  },
+  "creation_note": "Forty pane-interior polygons used for the Task 3 full-ROI primary Dice. Every predicted pixel in the crop is counted as TP or FP against this reference.",
+  "polygon_half_width_px": 6,
+  "polygon_half_height_px": 11,
+  "pane_polygons": [
+    {
+      "id": "P01",
+      "row": "R1",
+      "column": "C1",
+      "points": [
+        [
+          39,
+          51
+        ],
+        [
+          51,
+          51
+        ],
+        [
+          51,
+          73
+        ],
+        [
+          39,
+          73
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P02",
+      "row": "R1",
+      "column": "C2",
+      "points": [
+        [
+          57,
+          51
+        ],
+        [
+          69,
+          51
+        ],
+        [
+          69,
+          73
+        ],
+        [
+          57,
+          73
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P03",
+      "row": "R1",
+      "column": "C3",
+      "points": [
+        [
+          98,
+          51
+        ],
+        [
+          110,
+          51
+        ],
+        [
+          110,
+          73
+        ],
+        [
+          98,
+          73
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P04",
+      "row": "R1",
+      "column": "C4",
+      "points": [
+        [
+          118,
+          51
+        ],
+        [
+          130,
+          51
+        ],
+        [
+          130,
+          73
+        ],
+        [
+          118,
+          73
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P05",
+      "row": "R1",
+      "column": "C5",
+      "points": [
+        [
+          158,
+          51
+        ],
+        [
+          170,
+          51
+        ],
+        [
+          170,
+          73
+        ],
+        [
+          158,
+          73
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P06",
+      "row": "R1",
+      "column": "C6",
+      "points": [
+        [
+          178,
+          51
+        ],
+        [
+          190,
+          51
+        ],
+        [
+          190,
+          73
+        ],
+        [
+          178,
+          73
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P07",
+      "row": "R1",
+      "column": "C7",
+      "points": [
+        [
+          228,
+          51
+        ],
+        [
+          240,
+          51
+        ],
+        [
+          240,
+          73
+        ],
+        [
+          228,
+          73
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P08",
+      "row": "R1",
+      "column": "C8",
+      "points": [
+        [
+          248,
+          51
+        ],
+        [
+          260,
+          51
+        ],
+        [
+          260,
+          73
+        ],
+        [
+          248,
+          73
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P09",
+      "row": "R1",
+      "column": "C9",
+      "points": [
+        [
+          288,
+          51
+        ],
+        [
+          300,
+          51
+        ],
+        [
+          300,
+          73
+        ],
+        [
+          288,
+          73
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P10",
+      "row": "R1",
+      "column": "C10",
+      "points": [
+        [
+          308,
+          51
+        ],
+        [
+          320,
+          51
+        ],
+        [
+          320,
+          73
+        ],
+        [
+          308,
+          73
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P11",
+      "row": "R2",
+      "column": "C1",
+      "points": [
+        [
+          39,
+          94
+        ],
+        [
+          51,
+          94
+        ],
+        [
+          51,
+          116
+        ],
+        [
+          39,
+          116
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P12",
+      "row": "R2",
+      "column": "C2",
+      "points": [
+        [
+          57,
+          94
+        ],
+        [
+          69,
+          94
+        ],
+        [
+          69,
+          116
+        ],
+        [
+          57,
+          116
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P13",
+      "row": "R2",
+      "column": "C3",
+      "points": [
+        [
+          98,
+          94
+        ],
+        [
+          110,
+          94
+        ],
+        [
+          110,
+          116
+        ],
+        [
+          98,
+          116
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P14",
+      "row": "R2",
+      "column": "C4",
+      "points": [
+        [
+          118,
+          94
+        ],
+        [
+          130,
+          94
+        ],
+        [
+          130,
+          116
+        ],
+        [
+          118,
+          116
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P15",
+      "row": "R2",
+      "column": "C5",
+      "points": [
+        [
+          158,
+          94
+        ],
+        [
+          170,
+          94
+        ],
+        [
+          170,
+          116
+        ],
+        [
+          158,
+          116
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P16",
+      "row": "R2",
+      "column": "C6",
+      "points": [
+        [
+          178,
+          94
+        ],
+        [
+          190,
+          94
+        ],
+        [
+          190,
+          116
+        ],
+        [
+          178,
+          116
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P17",
+      "row": "R2",
+      "column": "C7",
+      "points": [
+        [
+          228,
+          94
+        ],
+        [
+          240,
+          94
+        ],
+        [
+          240,
+          116
+        ],
+        [
+          228,
+          116
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P18",
+      "row": "R2",
+      "column": "C8",
+      "points": [
+        [
+          248,
+          94
+        ],
+        [
+          260,
+          94
+        ],
+        [
+          260,
+          116
+        ],
+        [
+          248,
+          116
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P19",
+      "row": "R2",
+      "column": "C9",
+      "points": [
+        [
+          288,
+          94
+        ],
+        [
+          300,
+          94
+        ],
+        [
+          300,
+          116
+        ],
+        [
+          288,
+          116
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P20",
+      "row": "R2",
+      "column": "C10",
+      "points": [
+        [
+          308,
+          94
+        ],
+        [
+          320,
+          94
+        ],
+        [
+          320,
+          116
+        ],
+        [
+          308,
+          116
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P21",
+      "row": "R3",
+      "column": "C1",
+      "points": [
+        [
+          39,
+          134
+        ],
+        [
+          51,
+          134
+        ],
+        [
+          51,
+          156
+        ],
+        [
+          39,
+          156
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P22",
+      "row": "R3",
+      "column": "C2",
+      "points": [
+        [
+          57,
+          134
+        ],
+        [
+          69,
+          134
+        ],
+        [
+          69,
+          156
+        ],
+        [
+          57,
+          156
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P23",
+      "row": "R3",
+      "column": "C3",
+      "points": [
+        [
+          98,
+          134
+        ],
+        [
+          110,
+          134
+        ],
+        [
+          110,
+          156
+        ],
+        [
+          98,
+          156
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P24",
+      "row": "R3",
+      "column": "C4",
+      "points": [
+        [
+          118,
+          134
+        ],
+        [
+          130,
+          134
+        ],
+        [
+          130,
+          156
+        ],
+        [
+          118,
+          156
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P25",
+      "row": "R3",
+      "column": "C5",
+      "points": [
+        [
+          158,
+          134
+        ],
+        [
+          170,
+          134
+        ],
+        [
+          170,
+          156
+        ],
+        [
+          158,
+          156
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P26",
+      "row": "R3",
+      "column": "C6",
+      "points": [
+        [
+          178,
+          134
+        ],
+        [
+          190,
+          134
+        ],
+        [
+          190,
+          156
+        ],
+        [
+          178,
+          156
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P27",
+      "row": "R3",
+      "column": "C7",
+      "points": [
+        [
+          228,
+          134
+        ],
+        [
+          240,
+          134
+        ],
+        [
+          240,
+          156
+        ],
+        [
+          228,
+          156
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P28",
+      "row": "R3",
+      "column": "C8",
+      "points": [
+        [
+          248,
+          134
+        ],
+        [
+          260,
+          134
+        ],
+        [
+          260,
+          156
+        ],
+        [
+          248,
+          156
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P29",
+      "row": "R3",
+      "column": "C9",
+      "points": [
+        [
+          288,
+          134
+        ],
+        [
+          300,
+          134
+        ],
+        [
+          300,
+          156
+        ],
+        [
+          288,
+          156
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P30",
+      "row": "R3",
+      "column": "C10",
+      "points": [
+        [
+          308,
+          134
+        ],
+        [
+          320,
+          134
+        ],
+        [
+          320,
+          156
+        ],
+        [
+          308,
+          156
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P31",
+      "row": "R4",
+      "column": "C1",
+      "points": [
+        [
+          39,
+          179
+        ],
+        [
+          51,
+          179
+        ],
+        [
+          51,
+          201
+        ],
+        [
+          39,
+          201
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P32",
+      "row": "R4",
+      "column": "C2",
+      "points": [
+        [
+          57,
+          179
+        ],
+        [
+          69,
+          179
+        ],
+        [
+          69,
+          201
+        ],
+        [
+          57,
+          201
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P33",
+      "row": "R4",
+      "column": "C3",
+      "points": [
+        [
+          98,
+          179
+        ],
+        [
+          110,
+          179
+        ],
+        [
+          110,
+          201
+        ],
+        [
+          98,
+          201
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P34",
+      "row": "R4",
+      "column": "C4",
+      "points": [
+        [
+          118,
+          179
+        ],
+        [
+          130,
+          179
+        ],
+        [
+          130,
+          201
+        ],
+        [
+          118,
+          201
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P35",
+      "row": "R4",
+      "column": "C5",
+      "points": [
+        [
+          158,
+          179
+        ],
+        [
+          170,
+          179
+        ],
+        [
+          170,
+          201
+        ],
+        [
+          158,
+          201
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P36",
+      "row": "R4",
+      "column": "C6",
+      "points": [
+        [
+          178,
+          179
+        ],
+        [
+          190,
+          179
+        ],
+        [
+          190,
+          201
+        ],
+        [
+          178,
+          201
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P37",
+      "row": "R4",
+      "column": "C7",
+      "points": [
+        [
+          228,
+          179
+        ],
+        [
+          240,
+          179
+        ],
+        [
+          240,
+          201
+        ],
+        [
+          228,
+          201
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P38",
+      "row": "R4",
+      "column": "C8",
+      "points": [
+        [
+          248,
+          179
+        ],
+        [
+          260,
+          179
+        ],
+        [
+          260,
+          201
+        ],
+        [
+          248,
+          201
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P39",
+      "row": "R4",
+      "column": "C9",
+      "points": [
+        [
+          288,
+          179
+        ],
+        [
+          300,
+          179
+        ],
+        [
+          300,
+          201
+        ],
+        [
+          288,
+          201
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    },
+    {
+      "id": "P40",
+      "row": "R4",
+      "column": "C10",
+      "points": [
+        [
+          308,
+          179
+        ],
+        [
+          320,
+          179
+        ],
+        [
+          320,
+          201
+        ],
+        [
+          308,
+          201
+        ]
+      ],
+      "role": "full_roi_primary_reference"
+    }
+  ]
+}

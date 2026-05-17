@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python / Jupyter
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local agent/tooling
+.claude/
+.codex/
+scripts/
+
+# Submission/review scratch and stale archives
+*.zip
+LUCA_GBSV_MC2_GRADING_REVIEW.md
+luca_max_submission/
+
+# Build/temp
+tmp/
+temp/
+*.log

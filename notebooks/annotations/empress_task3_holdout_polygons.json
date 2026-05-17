@@ -1,0 +1,465 @@
+{
+  "schema": "gbsv-mc2-fs26-empress-segmentation-annotations-v1",
+  "coordinate_space": "window_crop_pixels_xy",
+  "window_roi_xyxy": {
+    "x1": 300,
+    "y1": 210,
+    "x2": 680,
+    "y2": 405
+  },
+  "creation_note": "Sixteen stratified hand polygons for Task 3 evaluation only, plus six negative-control polygons for full-ROI false-positive audit only. They are not used for threshold, morphology, connected-component constraint selection, or configuration choice.",
+  "holdout_polygons": [
+    {
+      "id": "H01",
+      "row": "R1",
+      "column": "C1",
+      "points": [
+        [
+          39,
+          51
+        ],
+        [
+          51,
+          50
+        ],
+        [
+          51,
+          73
+        ],
+        [
+          38,
+          74
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H02",
+      "row": "R1",
+      "column": "C2",
+      "points": [
+        [
+          118,
+          51
+        ],
+        [
+          130,
+          50
+        ],
+        [
+          130,
+          73
+        ],
+        [
+          117,
+          74
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H03",
+      "row": "R1",
+      "column": "C3",
+      "points": [
+        [
+          178,
+          51
+        ],
+        [
+          190,
+          50
+        ],
+        [
+          190,
+          73
+        ],
+        [
+          177,
+          74
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H04",
+      "row": "R1",
+      "column": "C4",
+      "points": [
+        [
+          248,
+          51
+        ],
+        [
+          260,
+          50
+        ],
+        [
+          260,
+          73
+        ],
+        [
+          247,
+          74
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H05",
+      "row": "R1",
+      "column": "C5",
+      "points": [
+        [
+          308,
+          51
+        ],
+        [
+          320,
+          50
+        ],
+        [
+          320,
+          73
+        ],
+        [
+          307,
+          74
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H06",
+      "row": "R2",
+      "column": "C1",
+      "points": [
+        [
+          57,
+          94
+        ],
+        [
+          69,
+          93
+        ],
+        [
+          69,
+          116
+        ],
+        [
+          56,
+          117
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H07",
+      "row": "R2",
+      "column": "C2",
+      "points": [
+        [
+          158,
+          94
+        ],
+        [
+          170,
+          93
+        ],
+        [
+          170,
+          116
+        ],
+        [
+          157,
+          117
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H08",
+      "row": "R2",
+      "column": "C3",
+      "points": [
+        [
+          228,
+          94
+        ],
+        [
+          240,
+          93
+        ],
+        [
+          240,
+          116
+        ],
+        [
+          227,
+          117
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H09",
+      "row": "R2",
+      "column": "C4",
+      "points": [
+        [
+          288,
+          94
+        ],
+        [
+          300,
+          93
+        ],
+        [
+          300,
+          116
+        ],
+        [
+          287,
+          117
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H10",
+      "row": "R3",
+      "column": "C1",
+      "points": [
+        [
+          98,
+          134
+        ],
+        [
+          110,
+          133
+        ],
+        [
+          110,
+          156
+        ],
+        [
+          97,
+          157
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H11",
+      "row": "R3",
+      "column": "C2",
+      "points": [
+        [
+          178,
+          134
+        ],
+        [
+          190,
+          133
+        ],
+        [
+          190,
+          156
+        ],
+        [
+          177,
+          157
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H12",
+      "row": "R3",
+      "column": "C3",
+      "points": [
+        [
+          248,
+          134
+        ],
+        [
+          260,
+          133
+        ],
+        [
+          260,
+          156
+        ],
+        [
+          247,
+          157
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H13",
+      "row": "R4",
+      "column": "C1",
+      "points": [
+        [
+          39,
+          180
+        ],
+        [
+          51,
+          179
+        ],
+        [
+          51,
+          202
+        ],
+        [
+          38,
+          203
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H14",
+      "row": "R4",
+      "column": "C2",
+      "points": [
+        [
+          118,
+          180
+        ],
+        [
+          130,
+          179
+        ],
+        [
+          130,
+          202
+        ],
+        [
+          117,
+          203
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H15",
+      "row": "R4",
+      "column": "C3",
+      "points": [
+        [
+          228,
+          180
+        ],
+        [
+          240,
+          179
+        ],
+        [
+          240,
+          202
+        ],
+        [
+          227,
+          203
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    },
+    {
+      "id": "H16",
+      "row": "R4",
+      "column": "C4",
+      "points": [
+        [
+          308,
+          180
+        ],
+        [
+          320,
+          179
+        ],
+        [
+          320,
+          202
+        ],
+        [
+          307,
+          203
+        ]
+      ],
+      "role": "evaluation_only_holdout"
+    }
+  ],
+  "negative_control_polygons": [
+    {
+      "id": "N01",
+      "label": "oberes Steingesims",
+      "points": [
+        [42, 24],
+        [318, 24],
+        [318, 37],
+        [42, 37]
+      ],
+      "role": "false_positive_audit_only"
+    },
+    {
+      "id": "N02",
+      "label": "linker Backsteinzwischenraum",
+      "points": [
+        [76, 80],
+        [95, 80],
+        [95, 155],
+        [76, 155]
+      ],
+      "role": "false_positive_audit_only"
+    },
+    {
+      "id": "N03",
+      "label": "mittlerer Backsteinzwischenraum",
+      "points": [
+        [132, 80],
+        [157, 80],
+        [157, 155],
+        [132, 155]
+      ],
+      "role": "false_positive_audit_only"
+    },
+    {
+      "id": "N04",
+      "label": "rechter Backsteinzwischenraum",
+      "points": [
+        [268, 80],
+        [287, 80],
+        [287, 155],
+        [268, 155]
+      ],
+      "role": "false_positive_audit_only"
+    },
+    {
+      "id": "N05",
+      "label": "unteres Steinelement",
+      "points": [
+        [150, 163],
+        [220, 163],
+        [220, 177],
+        [150, 177]
+      ],
+      "role": "false_positive_audit_only"
+    },
+    {
+      "id": "N06",
+      "label": "rechter heller Steinrand",
+      "points": [
+        [342, 42],
+        [360, 42],
+        [360, 166],
+        [342, 166]
+      ],
+      "role": "false_positive_audit_only"
+    }
+  ]
+}
